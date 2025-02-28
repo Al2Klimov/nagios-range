@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - .github/workflows/rust.yml
+      - .github/workflows/rust.yml # PING
       - Cargo.*
       - src/**
   pull_request:
